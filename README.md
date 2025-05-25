@@ -16,9 +16,9 @@ La base de datos está organizada en varias tablas interrelacionadas que permite
 
 ## 📋 Estructura del Proyecto
 
-- **BBDD:** (El archivo sql que contiene la BBDD utilizada para hacer las consultas)
-- **Archivos sql:** (Una carpeta que contiene 65 archivos sql, las 64 consultas resolviendo los enunciados propuestos y una adicional que contiene la consulta para poder visualizar las tablas de la BBDD, una consulta esencial usada para visualizar, analizar y entender las tablas de la BBDD)
-- **Archivo pdf:** (Un archivo pdf que contiene los 64 enunciados que se tenían que responder con cada consulta utilizada para responderlos. Además, dado que el primer enunciado era visualizar el diagrama de la BBDD, se han incluido las imágenes que muestran la muestran el diagrama)
+- **BBDD.sql:** (El archivo sql que contiene la BBDD utilizada para hacer las consultas)
+- **Archivos Q*XX*.sql:** (65 archivos .sql, las 64 consultas resolviendo los enunciados propuestos y un archivo adicional que contiene la consulta para poder visualizar las tablas de la BBDD, una consulta esencial usada para visualizar, analizar y entender las tablas de la BBDD)
+- **Enunciados_y_Consultas_Project2.pdf:** (Un archivo pdf que contiene los 64 enunciados que se tenían que responder con cada consulta utilizada para responderlos. Además, dado que el primer enunciado era visualizar el diagrama de la BBDD, debajo del primer enunciado se han incluido las imágenes que muestran el diagrama)
 - **README.md:**  (Descripción del proyecto)
 
 ## 🛠 Instalación y Requisitos
