@@ -1,0 +1,3 @@
+SELECT *
+FROM film
+ORDER BY length ASC;
